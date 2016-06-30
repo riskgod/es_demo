@@ -1,0 +1,2 @@
+
+创建索引：rake environment elasticsearch:import:model CLASS=‘Article' FORCE='y'
