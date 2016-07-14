@@ -13,4 +13,3 @@ rake environment elasticsearch:import:model CLASS=‘Article' FORCE='y'
 
 打开
 localhost:3000/search
-
